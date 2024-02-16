@@ -1,7 +1,5 @@
 {
-  "users": {
-    "count": 6,
-    "results": [
+  "users":[
       {
         "id": 3,
         "user_name": "Esteban",
